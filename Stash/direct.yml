@@ -1,0 +1,6 @@
+payload:
+  - GEOIP,private
+  - GEOSITE,binance
+  - DOMAIN-SUFFIX,futunn.com
+  - GEOIP,cn
+  - GEOSITE,geolocation-cn

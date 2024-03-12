@@ -1,0 +1,5 @@
+payload:
+  - GEOSITE,category-ads
+  - DOMAIN-SUFFIX,api.taboola.com
+  - DOMAIN-SUFFIX,ads.vungle.com
+  - DOMAIN-SUFFIX,ads.api.vungle.com
