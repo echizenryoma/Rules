@@ -1,9 +1,3 @@
 payload:
-  - GEOSITE,netflix
-  - GEOSITE,tiktok
-  - GEOIP,telegram
-  - GEOSITE,telegram
-  - GEOSITE,apple
-  - GEOSITE,category-media
-  - GEOSITE,gfw
-  - GEOSITE,greatfire
+  - GEOSITE,openai
+  - GEOSITE,bing
