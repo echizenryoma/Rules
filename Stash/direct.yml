@@ -1,6 +1,13 @@
 payload:
-  - GEOIP,private
-  - GEOSITE,binance
-  - DOMAIN-SUFFIX,futunn.com
-  - GEOIP,cn
-  - GEOSITE,geolocation-cn
+  - '+.zhanglei.me'
+  - '+.rdbg.net'
+  - '+.ya0db9.com'
+  - '+.tencent.com'
+  - '+.woa.me'
+  - '+.nsupdate.info'
+  - '+.bygcloud.xyz'
+  - '+.microsoft-orgwly.vip'
+  - '+.cn.download.nvidia.com'
+  - '+.msftconnecttest.com'
+  - '+.futunn.com'
+  - '+.time.windows.com'
