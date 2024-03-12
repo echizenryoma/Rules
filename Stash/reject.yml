@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,api.taboola.com
   - DOMAIN-SUFFIX,ads.vungle.com
   - DOMAIN-SUFFIX,api.vungle.com
+  - DOMAIN-SUFFIX,events.data.microsoft.com
