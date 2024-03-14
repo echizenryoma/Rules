@@ -7,5 +7,7 @@ payload:
   - '+.adnxs.com'
   - '+.outbrain.com'
   - '+.fp.msedge.net'
+  - '+.events.data.microsoft.com'
+  - '+.trafficmanager.net'
   - '+.cdn.spotxcdn.com'
   - '+.cdn.adnxs.com'
