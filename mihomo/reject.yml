@@ -1,4 +1,7 @@
 payload:
-  - '+.taboola.com'
+  - '+.api.taboola.com'
   - '+.ads.vungle.com'
-  - '+.api.vungle.com'
+  - '+.ads.api.vungle.com'
+  - '+.ads.aerserv.com'
+  - '+.ads.inmobi.com'
+  - '+.ib.adnxs.com'
