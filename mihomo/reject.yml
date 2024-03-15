@@ -1,3 +1,11 @@
 payload:
   - '+.taboola.com'
   - '+.vungle.com'
+  - '+.cdn.spotxcdn.com'
+  - '+.fp.msedge.net'
+  - '+.cdn.adnxs.com'
+  - '+.outbrain.com'
+  - '+.adbroker.mp.dse.microsoft.com'
+  - '+.ads.aerserv.com'
+  - '+.prod-ads.aerserv.com'
+  - '+.ads.inmobi.com'
