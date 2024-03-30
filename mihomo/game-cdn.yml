@@ -10,6 +10,5 @@ payload:
   - '+.download4.epicgames.com'
   - '+.epicgames-download1.akamaized.net'
   - '+.steamcontent.com'
-  - '+.steamstatic.com'
   - '+.steamserver.net'
   - '+.test.steampowered.com'
