@@ -8,5 +8,6 @@ payload:
   - '+.microsoft-orgwly.vip'
   - '+.cn.download.nvidia.com'
   - '+.msftconnecttest.com'
-  - '+.futunn.com'
+  - '+.blob.core.windows.net'
   - '+.time.windows.com'
+  - '+.futunn.com'
