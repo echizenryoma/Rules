@@ -3,7 +3,8 @@
     "rules": [
         {
             "domain_suffix": [
-                "atlas-cfosspeed.com"
+                "atlas-cfosspeed.com",
+                "apis.google.com"
             ]
         }
     ]
