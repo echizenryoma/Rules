@@ -4,8 +4,6 @@ payload:
   - '+.tencent.com'
   - '+.woa.com'
   - '+.nsupdate.info'
-  - '+.bygcloud.xyz'
-  - '+.microsoft-orgwly.vip'
   - '+.cn.download.nvidia.com'
   - '+.msftconnecttest.com'
   - '+.blob.core.windows.net'
