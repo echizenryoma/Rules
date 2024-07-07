@@ -9,6 +9,7 @@ payload:
   - '+.download3.epicgames.com'
   - '+.download4.epicgames.com'
   - '+.epicgames-download1.akamaized.net'
+  - '+.egdownload.fastly-edge.com'
   - '+.steamcontent.com'
   - '+.steamserver.net'
   - '+.test.steampowered.com'
