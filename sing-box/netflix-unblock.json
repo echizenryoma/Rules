@@ -3,7 +3,9 @@
     "rules": [
         {
             "domain_suffix": [
-                "netflix.com"
+                "netflix.com",
+                "nflxext.com",
+                "cookielaw.org"
             ]
         }
     ]
