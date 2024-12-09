@@ -8,7 +8,6 @@ payload:
   - '+.msftconnecttest.com'
   - '+.blob.core.windows.net'
   - '+.time.windows.com'
-  - '+.futunn.com'
   - '+.batvm.com'
   - '+.run.app'
   - '+.aws-latency-test.com'
