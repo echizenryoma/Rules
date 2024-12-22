@@ -1,6 +1,7 @@
 payload:
   - '+.webvideocore.net'
   - '+.futunn.com'
+  - '+.onetrust.com'
   - 'mypikpak.net'
   - 'rcv5-sp.mypikpak.net'
   - 'config.mypikpak.net'
@@ -8,4 +9,3 @@ payload:
   - 'user.mypikpak.net'
   - 'access.mypikpak.net'
   - 'download.mypikpak.net'
-  - 'onetrust.com'
