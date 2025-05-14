@@ -6,3 +6,4 @@ payload:
   - '+.surfsharkdns.com'
   - '+.byr.pt'
   - 'iosapps.itunes.apple.com'
+  - 'dotnetcli.blob.core.windows.net'
