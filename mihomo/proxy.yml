@@ -5,5 +5,7 @@ payload:
   - '+.ip-api.com'
   - '+.surfsharkdns.com'
   - '+.byr.pt'
+  - 'sub.rdbg.net'
+  - 'rule.rdbg.net'
   - 'iosapps.itunes.apple.com'
   - 'dotnetcli.blob.core.windows.net'
