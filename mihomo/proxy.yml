@@ -8,4 +8,5 @@ payload:
   - 'sub.rdbg.net'
   - 'rule.rdbg.net'
   - 'iosapps.itunes.apple.com'
+  - 'download.windowsupdate.com'
   - 'dotnetcli.blob.core.windows.net'
