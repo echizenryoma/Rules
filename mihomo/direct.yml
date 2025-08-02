@@ -1,13 +1,8 @@
 payload:
-  - '+.rdbg.net'
-  - '+.ya0db9.com'
   - '+.tencent.com'
   - '+.woa.com'
   - '+.nsupdate.info'
   - '+.cn.download.nvidia.com'
-  - '+.msftconnecttest.com'
-  - '+.blob.core.windows.net'
-  - '+.time.windows.com'
   - '+.batvm.com'
   - '+.run.app'
   - '+.aws-latency-test.com'
