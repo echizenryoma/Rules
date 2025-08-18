@@ -3,4 +3,6 @@ payload:
   - '+.futunn.com'
   - '+.nodeseek.com'
   - '+.surfsharkdns.com'
+  - '+,googleapis.com'
+  - '+.googleapis.cn'
   - 'iosapps.itunes.apple.com'
