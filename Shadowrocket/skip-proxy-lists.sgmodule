@@ -2,4 +2,4 @@
 #!desc=跳过代理
 
 [General]
-skip-proxy = %APPEND% *.ccb.com,*.95599.cn,*.abchina.com,*.bscabank.com,*.openaboc.cn,*.openaboc.com,*.openaboc.com.cn,*.id6.me
+skip-proxy = %APPEND% *.ccb-life.com.cn,*.ccb.cn,*.ccb.com,*.ccb.com.cn,*.ccbcos.com,*.ccbfund.cn,*.ccbfund.com,*.ccbfund.com.cn,*.ccbfutures.cn,*.ccbfutures.com,*.ccbhome.cn,*.ccbhome.net,*.ccbintl.com.hk,*.ccbleasing.com,*.ccblife-test.com.cn,*.ccbseoul.com,*.ccbtrust.com.cn,*.ccbxt.com,*.95599.cn,*.abchina.com,*.bscabank.com,*.openaboc.cn,*.openaboc.com,*.openaboc.com.cn,*.id6.me
