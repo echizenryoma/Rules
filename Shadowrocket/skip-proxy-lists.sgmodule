@@ -2,4 +2,4 @@
 #!desc=跳过代理
 
 [General]
-skip-proxy = %APPEND% *.ccb.com,*.abchina.com.cn,*.id6.me
+skip-proxy = *.ccb.com,*.abchina.com.cn,*.id6.me
