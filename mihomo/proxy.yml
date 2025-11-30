@@ -6,4 +6,5 @@ payload:
   - '+.surfsharkdns.com'
   - '+.googleapis.com'
   - '+.googleapis.cn'
-  - 'iosapps.itunes.apple.com'
+  - '+.opengw.net'
+  - '+.iosapps.itunes.apple.com'
