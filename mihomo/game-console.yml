@@ -1,5 +1,5 @@
 payload:
-  - IP-CIDR,10.0.0.6/24
-  - IP-CIDR,10.0.0.7/24
-  - IP-CIDR6,fd0b:3053:aea1:9418:7a81:8cff:fe0d:d0e8/64
-  - IP-CIDR6,fd0b:3053:aea1:9418:7a81:8cff:fe18:d00f/64
+  - SRC-IP-CIDR,10.0.0.6/24
+  - SRC-IP-CIDR,10.0.0.7/24
+  - SRC-IP-CIDR,fd0b:3053:aea1:9418:7a81:8cff:fe0d:d0e8/64
+  - SRC-IP-CIDR,fd0b:3053:aea1:9418:7a81:8cff:fe18:d00f/64
