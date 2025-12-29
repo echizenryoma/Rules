@@ -6,5 +6,4 @@ payload:
   - '+.batvm.com'
   - '+.run.app'
   - '+.aws-latency-test.com'
-  - '+.halocloudnet.com'
-  - '+.dbg.sd'
+  - 'myip.rdbg.net'
