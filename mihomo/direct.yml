@@ -1,10 +1,7 @@
 payload:
   - '+.tencent.com'
   - '+.woa.com'
-  - '+.nsupdate.info'
   - '+.cn.download.nvidia.com'
   - '+.batvm.com'
-  - '+.run.app'
   - '+.aws-latency-test.com'
-  - '+.a.run.app'
   - 'myip.rdbg.net'
